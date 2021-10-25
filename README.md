@@ -24,6 +24,10 @@ Current Goals:
 
 - To learn more about good UI/UX practices and become proficient with [Figma](https://www.figma.com/)
 
+<br>
+
+![](https://komarev.com/ghpvc/?username=dmaisano)
+
 <!--
 **dmaisano/dmaisano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
