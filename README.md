@@ -18,8 +18,6 @@ Current Goals:
 
 - Becoming more proficient with [GraphQL](https://graphql.org/) and SQL, and ORMs ([Entity Framework](https://docs.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli), [TypeORM](https://typeorm.io/#/), [Sequelize](https://sequelize.org/master/))
 
-- Learning and transitioning from old ASP.NET framework to .NET 5.0
-
 - Learning [Go](https://golang.org/) in-depth
 
 - To learn more about good UI/UX practices and become proficient with [Figma](https://www.figma.com/)
