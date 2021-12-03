@@ -16,7 +16,7 @@
 
 Current Goals:
 
-- Becoming more proficient with [GraphQL]
+- Becoming more proficient with [GraphQL](https://graphql.org/)
 
 - Learning [Go](https://golang.org/) in-depth
 
