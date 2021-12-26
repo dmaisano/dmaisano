@@ -14,6 +14,8 @@
 
 </div>
 
+
+<!--
 Current Goals:
 
 - Becoming more proficient with [GraphQL](https://graphql.org/)
@@ -21,6 +23,8 @@ Current Goals:
 - Learning [Go](https://golang.org/) in-depth
 
 - To learn more about good UI/UX practices and become proficient with [Figma](https://www.figma.com/)
+
+-->
 
 <br>
 
