@@ -1,8 +1,10 @@
 <div align='center'>
 
+<!--
 # [Domenico Maisano 🌊](https://dmaisano.com/)
 
 ## Full-Stack Developer | Adept Problem Solver
+-->
 
 <!--
 #### Currently looking for and open to new opportunities. If you would like to get in touch feel free to email me, [dmaisanooo@gmail.com](mailto:dmaisanooo@gmail.com)
