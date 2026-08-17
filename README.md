@@ -12,9 +12,9 @@
 
 <br>
 
-![Dom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmaisano&show_icons=true&hide=stars&count_private=true&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)
+![Dom's GitHub stats](https://github-stats-extended.vercel.app/api?username=dmaisano&show_icons=true&hide=stars&count_private=true&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmaisano&layout=compact&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dmaisano&layout=compact&theme=github_dark&border_radius=12&bg_color=135,222223,000000&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
